@@ -1,0 +1,22 @@
+{
+  "name": "line-offsets",
+  "version": "1.0.0",
+  "description": "Given a string, find the character offset for the beginning of each line",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joshwnj/line-offsets.git"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "keywords": [
+    "line",
+    "offset"
+  ],
+  "author": "joshwnj",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
